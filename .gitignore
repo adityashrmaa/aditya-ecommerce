@@ -21,3 +21,6 @@ npm-debug.log*
 # IDE
 .idea/
 .vscode/
+# Maven build output
+target/
+**/target/
